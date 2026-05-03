@@ -121,7 +121,7 @@
 
 
 #===============================================================================
-# QUICK REFERENCE LINKS (OPTIONAL SECTION)
+# QUICK REFERENCE LINKS
 #===============================================================================
 # Basics Playlist:
 # https://www.youtube.com/playlist?list=PLiEF5y87wtyyc3mVmmRpUcAi_a74w52CI
